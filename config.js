@@ -87,6 +87,19 @@ const CONFIG = {
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
 		},
+		
+		
+		
+	{
+			id: '6',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
+		},	
+		
+		
+		
+		
 	],
 
 	secondButtonsContainer: [
