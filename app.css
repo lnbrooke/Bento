@@ -239,6 +239,8 @@ body {
 .linksBlockLeft {
   grid-row: 1 / span 3;
   grid-column: 1 / span 2;
+  margin-bottom:10px;
+
 }
 
 .linksBlockRight {
@@ -254,7 +256,6 @@ body {
   grid-template-rows: repeat(3, 1fr);
   grid-gap: 20px;
   padding: 20px;
-  margin-bottom:10px;
 }
 
 .button {
