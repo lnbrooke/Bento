@@ -43,7 +43,6 @@
   --background: #000000; /* Background color */
   --cards: #000000; /* Cards color */
   --border: 2;
-  --border-color: #FF006E;
 
   /* Fonts Color */
   --fg: #d8dee9; /* Foreground color */
@@ -63,7 +62,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Century Gothic', sans-serif;
   transition: 0.2s ease-in-out;
 }
 
