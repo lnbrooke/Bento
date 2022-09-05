@@ -155,6 +155,8 @@ body {
   display: flex;
   align-items: right;
   justify-content: right;
+  margin-top: 10px;
+  margin-right: 20px;
 }
 
 .clock {
