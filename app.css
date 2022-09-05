@@ -41,7 +41,7 @@
   /* Dark Colors  */
   --accent: #FF006E; /* Hover color */
   --background: #000000; /* Background color */
-  --cards: #ffffff; /* Cards color */
+  --cards: #FF70A6; /* Cards color */
 
   /* Fonts Color */
   --fg: #d8dee9; /* Foreground color */
@@ -171,7 +171,7 @@ body {
 #month,
 #day {
   font-size: var(--fg-date);
-  font-weight: bold;
+  font-weight: light;
   color: var(--fg);
 }
 
