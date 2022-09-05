@@ -14,7 +14,7 @@
 
 :root {
   /* Font Size */
-  --fg-primary: 8vh; /* Time and Greetings */
+  --fg-primary: 12vh; /* Time and Greetings */
   --fg-secondary: 3vh; /* Greetings and Weather widger */
   --fg-date: 8vh; /* Date */
   --fg-list: 2vh; /* Links List */
@@ -39,7 +39,7 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #57a0d9; /* Hover color */
+  --accent: #FF006E; /* Hover color */
   --background: #000000; /* Background color */
   --cards: #201e21; /* Cards color */
 
