@@ -32,8 +32,8 @@
   /* Image background  */
   --imgbg: url(assets/LizardGIRL.jpg); /* Image URL */
    --imgcol: linear-gradient(
-    rgba(255, 255, 255, 0.3),
-    rgba(255, 255, 255, 0.3)
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0.1)
   ); /* Filter color */
 }
 
@@ -41,7 +41,7 @@
   /* Dark Colors  */
   --accent: #FF006E; /* Hover color */
   --background: #000000; /* Background color */
-  --cards: #FF70A6; /* Cards color */
+  --cards: #00AFB9; /* Cards color */
 
   /* Fonts Color */
   --fg: #d8dee9; /* Foreground color */
