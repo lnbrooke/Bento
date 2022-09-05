@@ -128,8 +128,8 @@ body {
   grid-column: 1 / span 2;
   display: flex;
   flex-direction: column;
-  align-items: left;
-  justify-content: left;
+  align-items: center;
+  justify-content: center;
 }
 
 .weatherBlock {
