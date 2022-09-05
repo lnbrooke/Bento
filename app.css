@@ -14,7 +14,7 @@
 
 :root {
   /* Font Size */
-  --fg-primary: 9vh; /* Time and Greetings */
+  --fg-primary: 8vh; /* Time and Greetings */
   --fg-secondary: 3vh; /* Greetings and Weather widger */
   --fg-date: 7vh; /* Date */
   --fg-list: 2vh; /* Links List */
@@ -111,7 +111,7 @@ body {
 
 .container {
   width: 145vh;
-  height: 98vh;
+  height: 85vh;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(4, 1fr);
