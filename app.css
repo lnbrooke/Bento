@@ -148,7 +148,7 @@ body {
   align-items: right;
   justify-content: right;
   margin-right: 10px;
-  
+  width:300px;
 }
 
 .date {
