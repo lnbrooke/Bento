@@ -151,7 +151,7 @@ const CONFIG = {
 					link: 'https://open.spotify.com/playlist/7CRznAI0e2xrKz7ALiTpOS',
 				},
 				{
-					name: 'Legendary',
+					name: 'LEGENDARY',
 					link: 'https://open.spotify.com/playlist/12AjYnXtK6HRt3ff7EBXsF',
 				},
 			],
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'HULU',
+					link: 'https://www.hulu.com/hub/home',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'PEACOCK',
+					link: 'https://www.peacocktv.com/watch/home',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'NETFLIX',
+					link: 'https://www.netflix.com/browse',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'HBO MAX',
+					link: 'https://play.hbomax.com/page/urn:hbo:page:home',
 				},
 			],
 		},
