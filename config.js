@@ -65,8 +65,8 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
+			name: 'Pinterest',
+			icon: 'image',
 			link: 'https://www.pinterest.com',
 		},
 		{
