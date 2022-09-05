@@ -164,7 +164,7 @@ body {
 #separator,
 #minutes {
   font-size: var(--fg-primary);
-  font-weight: bolder;
+  font-weight: light;
   color: var(--fg);
 }
 
