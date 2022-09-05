@@ -57,10 +57,11 @@
 //  └─┘ ┴  ┴ ┴─┘└─┘└─┘ 
 */
 
-container-openweathermap-widget-21 {
+.container-openweathermap-widget-21 {
   width: 50%;
   align: center;
   margin-bottom: 50px;
+  display: flex;
 }
 
 
