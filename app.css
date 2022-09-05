@@ -58,7 +58,8 @@
 */
 
 .container-openweathermap-widget-21 {
-  width: 50%;
+  width: 300px;
+  height:100px;
   align: center;
   margin-bottom: 50px;
   display: flex;
