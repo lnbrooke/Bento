@@ -91,7 +91,7 @@ body {
 .withImageBackground {
   background-image: var(--imgcol), var(--imgbg);
   background-size: cover;
-  padding-bottom:40px;
+  margin-bottom:40px;
 }
 
 #themeButton {
