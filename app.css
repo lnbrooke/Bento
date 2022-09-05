@@ -138,6 +138,7 @@ body {
   align-items: left;
   justify-content: left;
   margin-left:20px;
+  width: 350px;
 }
 
 .weatherBlock {
@@ -147,7 +148,7 @@ body {
   flex-direction: column;
   align-items: right;
   justify-content: right;
-  margin-right: 10px;
+  margin-left:50px;
   width:300px;
 }
 
@@ -296,7 +297,7 @@ body {
 }
 
 .listsContainer {
-  width: 90%;
+  width: 100%;
   height: 100%;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
