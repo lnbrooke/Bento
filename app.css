@@ -59,6 +59,8 @@
 
 container-openweathermap-widget-21 {
   width: 50%;
+  align: left;
+  margin-bottom: 100px;
 }
 
 
