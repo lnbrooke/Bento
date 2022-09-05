@@ -91,9 +91,9 @@ const CONFIG = {
 		
 		
 	{
-			id: '6',
+			id: '7',
 			name: 'Youtube',
-			icon: 'youtube',
+			icon: 'image',
 			link: 'https://www.youtube.com/',
 		},	
 		
