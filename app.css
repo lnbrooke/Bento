@@ -292,6 +292,16 @@ body {
   grid-row: 2;
   grid-column: 3;
 }
+
+
+.button__6 {
+  grid-row: 3;
+  grid-column: 1;
+}
+
+
+
+
 .button:hover {
   background-color: var(--accent);
 }
