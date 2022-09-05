@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Pinterest',
-			icon: 'image',
+			icon: 'cake',
 			link: 'https://www.pinterest.com',
 		},
 		{
@@ -78,12 +78,12 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'rocket',
 			link: 'https://reddit.com/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
 		},
