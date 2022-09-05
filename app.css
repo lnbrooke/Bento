@@ -153,8 +153,8 @@ body {
 
 .weather {
   display: flex;
-  align-items: left;
-  justify-content: left;
+  align-items: right;
+  justify-content: right;
 }
 
 .clock {
