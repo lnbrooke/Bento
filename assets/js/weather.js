@@ -38,7 +38,8 @@ function setPosition(position) {
 }
 
 function getWeather(latitude, longitude) {
-	let api = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&lang=${CONFIG.language}&appid=${key}`;
+	let api = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&lang=${CONFIG.language}&appid=${f8657673d00192ce5b39f3daf70e0219
+}`;
 	fetch(api)
 		.then(function(response) {
 			let data = response.json();
