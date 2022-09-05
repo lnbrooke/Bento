@@ -57,17 +57,6 @@
 //  └─┘ ┴  ┴ ┴─┘└─┘└─┘ 
 */
 
-.widget {
-  align: left;
-  display: flex;
-  margin-bottom: 100px;
-  justify-content: top;
-}
-
-#openweathermap-widget-21 {
-  width: 200px;
-  height:80px;
-}
 
 
 * {
