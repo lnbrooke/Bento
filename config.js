@@ -181,6 +181,18 @@ const CONFIG = {
 					name: 'LEGENDARY',
 					link: 'https://open.spotify.com/playlist/12AjYnXtK6HRt3ff7EBXsF',
 				},
+				
+				{
+					name: 'JON',
+					link: 'https://open.spotify.com/playlist/12AjYnXtK6HRt3ff7EBXsF',
+				},
+				
+				{
+					name: 'SUBLIME',
+					link: 'https://open.spotify.com/playlist/12AjYnXtK6HRt3ff7EBXsF',
+				},
+				
+				
 			],
 		},
 		{
@@ -203,6 +215,18 @@ const CONFIG = {
 					name: 'HBO MAX',
 					link: 'https://play.hbomax.com/page/urn:hbo:page:home',
 				},
+				
+				{
+					name: 'CRUNCHYROLL',
+					link: 'https://play.hbomax.com/page/urn:hbo:page:home',
+				},
+				
+				{
+					name: 'YOUTUBE',
+					link: 'https://play.hbomax.com/page/urn:hbo:page:home',
+				},
+				
+				
 			],
 		},
 	],
