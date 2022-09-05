@@ -53,8 +53,8 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
+			name: 'Instagram',
+			icon: 'instagram',
 			link: 'https://www.instagram.com',
 		},
 		{
