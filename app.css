@@ -60,6 +60,9 @@
 .widget {
   align: left;
   display: flex;
+   width: 200px;
+  height:80px;
+  margin-bottom: 100px;
 }
 
 #openweathermap-widget-21 {
