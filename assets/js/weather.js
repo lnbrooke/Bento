@@ -9,7 +9,7 @@ const descElement = document.querySelector('.weatherDescription p');
 
 const weather = {};
 weather.temperature = {
-	unit: 'celsius',
+	unit: 'fahrenheit',
 };
 
 var tempUnit = CONFIG.weatherUnit;
