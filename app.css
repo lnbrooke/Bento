@@ -14,7 +14,7 @@
 
 :root {
   /* Font Size */
-  --fg-primary: 10vh; /* Time and Greetings */
+  --fg-primary: 7vh; /* Time and Greetings */
   --fg-secondary: 3vh; /* Greetings and Weather widger */
   --fg-date: 7vh; /* Date */
   --fg-list: 2vh; /* Links List */
@@ -156,7 +156,7 @@ body {
   align-items: right;
   justify-content: right;
   margin-top: 2px;
-  margin-right: 60px;
+  margin-right: 80px;
 }
 
 .clock {
