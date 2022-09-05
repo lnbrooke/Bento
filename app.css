@@ -239,7 +239,7 @@ body {
 .linksBlockLeft {
   grid-row: 1 / span 3;
   grid-column: 1 / span 2;
-  margin-bottom:10px;
+  margin-bottom:15px;
 
 }
 
