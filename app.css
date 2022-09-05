@@ -130,7 +130,7 @@ body {
   flex-direction: column;
   align-items: left;
   justify-content: left;
-  margin-left:30px;
+  margin-left:25px;
 }
 
 .weatherBlock {
@@ -186,8 +186,8 @@ body {
 }
 
 .weatherIcon img {
-  width: 70px;
-  height: 70px;
+  width: 50px;
+  height: 50px;
 }
 
 .weatherValue p {
