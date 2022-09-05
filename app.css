@@ -83,7 +83,7 @@ body {
 
 .withImageBackground {
   background-image: var(--imgcol), var(--imgbg);
-  background-size: fit;
+  background-size: cover;
 }
 
 #themeButton {
@@ -157,7 +157,7 @@ body {
 .clock {
   display: flex;
   align-items: left;
-  justify-content: center;
+  justify-content: left;
 }
 
 #hour,
