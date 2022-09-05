@@ -93,21 +93,21 @@ const CONFIG = {
 	{
 			id: '7',
 			name: 'Youtube',
-			icon: 'image',
+			icon: 'book-open',
 			link: 'https://www.youtube.com/',
 		},	
 		
 		{
 			id: '8',
 			name: 'Youtube',
-			icon: 'image',
+			icon: 'globe',
 			link: 'https://www.youtube.com/',
 		},	
 		
 		{
 			id: '9',
 			name: 'Youtube',
-			icon: 'image',
+			icon: 'podcast',
 			link: 'https://www.youtube.com/',
 		},	
 		
@@ -184,7 +184,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'tv',
 			id: '2',
 			links: [
 				{
