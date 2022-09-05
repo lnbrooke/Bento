@@ -253,6 +253,7 @@ body {
   grid-template-rows: repeat(3, 1fr);
   grid-gap: 20px;
   padding: 20px;
+  margin-bottom:10px;
 }
 
 .button {
