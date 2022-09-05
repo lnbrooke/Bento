@@ -140,19 +140,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'RWBY',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://open.spotify.com/playlist/0gPRAyQHoy3F9z0YMF9jtg',
 				},
 				{
 					name: 'ANIME',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://open.spotify.com/playlist/4iNwqUZl1QWZIE3N56QKCi',
 				},
 				{
 					name: 'WARHAMMER',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://open.spotify.com/playlist/7CRznAI0e2xrKz7ALiTpOS',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Legendary',
+					link: 'https://open.spotify.com/playlist/12AjYnXtK6HRt3ff7EBXsF',
 				},
 			],
 		},
