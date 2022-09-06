@@ -262,6 +262,10 @@ body {
   width: 100%;
 }
 
+.buttonitem {
+  font-size: 10px;
+}
+
 .buttonIcon {
   width: var(--icon);
   height: var(--icon);
@@ -271,8 +275,8 @@ body {
 .button__1 {
   grid-row: 1;
   grid-column: 1;
-  width:100px;
-  height: 100px;
+  width:120px;
+  height: 120px;
 }
 .button__2 {
   grid-row: 1;
