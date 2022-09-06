@@ -271,8 +271,8 @@ body {
 .button__1 {
   grid-row: 1;
   grid-column: 1;
-  font-size:10px;
-  width:50px;
+  width:100px;
+  height: 100px;
 }
 .button__2 {
   grid-row: 1;
