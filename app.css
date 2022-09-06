@@ -57,7 +57,7 @@
 //  └─┘ ┴  ┴ ┴─┘└─┘└─┘ 
 */
 
-#ww_ef671f981d3 {
+.ww_ef671f981d3 {
   margin-bottom: 10px;
   margin-top:10px;
   align:left;
@@ -124,7 +124,7 @@ body {
   background-color: var(--cards);
   box-shadow: 0 5px 7px rgba(0, 0, 0, 0.35);
   border-radius: 5px;
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
 .card:hover {
@@ -319,7 +319,7 @@ body {
 
 .listsContainer {
   width: 100%;
-  height: 100%;
+  height: 99%;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 1fr);
@@ -336,11 +336,11 @@ body {
 
 .list__1 {
   grid-column: 1;
-  grid-row: 1 / span 3;
+  grid-row: 3 / span 3;
 }
 .list__2 {
   grid-column: 2;
-  grid-row: 1 / span 3;
+  grid-row: 3 / span 3;
 }
 .listIcon {
   /* margin-top: 3vh; */
@@ -354,7 +354,7 @@ body {
   font-size: var(--fg-list);
   color: var(--fg);
   margin-top: 1vh;
-  padding: 8px 12px;
+  padding: 5px 12px;
   border-radius: 5px;
   font-weight: bold;
   text-align: center;
