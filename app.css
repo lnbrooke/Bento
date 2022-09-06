@@ -324,7 +324,7 @@ body {
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 1fr);
   grid-gap: 2.5rem;
-  padding: 0.4rem;
+  padding: 0.1rem;
 }
 
 .list {
