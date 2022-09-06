@@ -195,6 +195,7 @@ width: 450px;
 #greetings {
   font-size: var(--fg-secondary);
   color: var(--fg);
+  margin0top: 10px;
 }
 
 .weatherIcon img {
