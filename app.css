@@ -60,7 +60,7 @@
   width: 250px;
   align:left;
   justify-contents: left;
-  margin-right:20px;
+  margin-right:40px;
 }
 
 * {
@@ -139,7 +139,7 @@ body {
   align-items: left;
   justify-content: left;
   margin-left:20px;
-  width: 350px;
+  width: 340px;
 }
 
 .weatherBlock {
@@ -252,7 +252,7 @@ body {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
   grid-gap: 20px;
-  padding: 2px;
+  padding: 1px;
 }
 
 .button {
