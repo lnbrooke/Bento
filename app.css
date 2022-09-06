@@ -60,7 +60,7 @@
   width: 250px;
   align:right;
   justify-contents: right;
-  margin-right:40px;
+  margin-left:40px;
 }
 
 * {
@@ -149,7 +149,7 @@ body {
   flex-direction: column;
   align-items: right;
   justify-content: right;
-width: 350px;
+width: 450px;
 }
 
 .date {
