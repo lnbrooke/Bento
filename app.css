@@ -57,8 +57,9 @@
 //  └─┘ ┴  ┴ ┴─┘└─┘└─┘ 
 */
 #ww_ef671f981d3 {
-  width: 300px;
+  width: 250px;
   align:left;
+  justify-contents: left;
 }
 
 * {
@@ -250,7 +251,7 @@ body {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
   grid-gap: 20px;
-  padding: 5px;
+  padding: 0px;
 }
 
 .button {
