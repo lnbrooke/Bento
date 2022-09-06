@@ -60,7 +60,7 @@
   width: 250px;
   align:right;
   justify-contents: right;
-  margin-left:40px;
+  margin-left:140px;
 }
 
 * {
@@ -252,7 +252,7 @@ width: 450px;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
   grid-gap: 20px;
-  padding: 1px;
+  padding: 0px;
 }
 
 .button {
